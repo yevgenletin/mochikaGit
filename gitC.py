@@ -4,6 +4,8 @@ import sys
 
 print("git commit -a -m")
 print("git log -p")
+print("git diff")
+print("git diff --staged")
 
 def check_reboot():
     """Return True if the computer has a pending reboot"""
