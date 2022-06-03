@@ -27,6 +27,8 @@ main()
 
 ## git checkout nombreArchivo
 
+##Los comentarios no se revierten
+
 ##
 
-
+klñfsdalkfasdjñlfskdf
