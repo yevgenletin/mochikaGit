@@ -19,3 +19,14 @@ def main():
     print("Everything ok")
     sys.exit(0)
 main()
+
+##REVERTIR CAMBIOS EN GIT
+
+##git checkout se utiliza para revertir cambios, 
+# antes de que se realicen en etapas
+
+## git checkout nombreArchivo
+
+##
+
+
