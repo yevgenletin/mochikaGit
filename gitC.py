@@ -26,10 +26,16 @@ main()
 # antes de que se realicen en etapas
 
 ## git checkout nombreArchivo
-
+git checkout gitC.py
 ##Los comentarios no se revierten
 
 ##MODIFICANDO COMMITS
-# .
 
-klñfsdalkfasdjñlfskdf
+# commit --amend
+#permite mostrar el mensaje detallado 
+# y te muestra toda la information del commit
+
+##Debe de evitarse amend comment para los casos
+#  de que el repositorio ya es publico.
+
+git commit --ammend
